@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BAT760-7")(type "Legacy")(uri "${KIPRJMOD}/Componentes/BAT760-7-pcb-part-libraries/BAT760-7.lib")(options "")(descr ""))
+  (lib (name "LESD5D5.0CT1G")(type "Legacy")(uri "${KIPRJMOD}/Componentes/LESD5D5.0CT1G/LESD5D5.0CT1G.lib")(options "")(descr ""))
+)
