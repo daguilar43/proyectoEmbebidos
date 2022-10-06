@@ -1431,7 +1431,7 @@
     (uuid 5c15113a-91bb-4f7b-a852-726c381c0a9a)
   )
   (text "https://co.mouser.com/ProductDetail/Diodes-Incorporated/BAT760-7?qs=JV7lzlMm3yKDDyO09xoRbQ%3D%3D"
-    (at 121.92 17.78 0)
+    (at 121.92 17.78 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6fb94345-b7e7-41fa-adb0-9bacec7f23ef)
   )

@@ -277,6 +277,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -304,6 +313,10 @@
     [
       "f208f94e-d25e-4624-bb7e-be2762749fd2",
       "CP2102N-A02-GQFN28(Bootloader)"
+    ],
+    [
+      "8e21bd33-9ddd-4dab-ba12-f74e7908b709",
+      "PantallaOled"
     ]
   ],
   "text_variables": {}
