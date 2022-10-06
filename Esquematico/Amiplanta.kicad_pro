@@ -300,10 +300,13 @@
     [
       "e140a476-2c20-4832-a6c9-c446e5aea50a",
       "ESP32"
+<<<<<<< HEAD
     ],
     [
       "f208f94e-d25e-4624-bb7e-be2762749fd2",
       "CP2102N-A02-GQFN28(Bootloader)"
+=======
+>>>>>>> b6a60ca524a67fbbe29fe5a4fd584fb6a5097c1b
     ]
   ],
   "text_variables": {}
