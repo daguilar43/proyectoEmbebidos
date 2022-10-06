@@ -878,7 +878,7 @@
     (uuid 1195f540-d8bc-4f8f-ab4e-11d046104b8a)
   )
   (text "Puede cambiarse Ren por un SW Push para \napagar manualmente el integrado"
-    (at 63.5 101.6 180)
+    (at 63.5 101.6 0)
     (effects (font (size 0.5 0.5)) (justify right bottom))
     (uuid 23db20c8-6649-4c5f-8b30-543aea4b4f5e)
   )
@@ -903,7 +903,7 @@
     (uuid ce68f6a1-a752-497c-b5a7-fa77bfaf3b4a)
   )
   (text "Revisar valores de C \ndebidos a el material a utilizar*\n"
-    (at 160.02 59.69 180)
+    (at 160.02 59.69 0)
     (effects (font (size 0.7 0.7)) (justify right bottom))
     (uuid e71685f8-1148-4721-9495-4616b7f081a3)
   )
