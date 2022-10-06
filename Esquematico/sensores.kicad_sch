@@ -300,11 +300,7 @@
   (symbol (lib_id "Device:R") (at 66.04 44.45 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 10b0fca3-8cf4-4475-88fa-1d494761ed52)
-<<<<<<< HEAD
     (property "Reference" "R1" (id 0) (at 66.04 38.1 90))
-=======
-    (property "Reference" "R?" (id 0) (at 66.04 38.1 90))
->>>>>>> b6a60ca524a67fbbe29fe5a4fd584fb6a5097c1b
     (property "Value" "R" (id 1) (at 66.04 40.64 90))
     (property "Footprint" "" (id 2) (at 66.04 46.228 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -319,11 +315,7 @@
   (symbol (lib_id "power:+5V") (at 57.15 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17901801-1031-443a-9a2c-2d4dc6bf6262)
-<<<<<<< HEAD
     (property "Reference" "#PWR0109" (id 0) (at 57.15 44.45 0)
-=======
-    (property "Reference" "#PWR?" (id 0) (at 57.15 44.45 0)
->>>>>>> b6a60ca524a67fbbe29fe5a4fd584fb6a5097c1b
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 57.15 35.56 0))
@@ -339,11 +331,7 @@
   (symbol (lib_id "power:GND") (at 57.15 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6d9672d4-6a5e-43f9-84b9-ab89135a7fb8)
-<<<<<<< HEAD
     (property "Reference" "#PWR0108" (id 0) (at 57.15 68.58 0)
-=======
-    (property "Reference" "#PWR?" (id 0) (at 57.15 68.58 0)
->>>>>>> b6a60ca524a67fbbe29fe5a4fd584fb6a5097c1b
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 57.15 67.31 0))
@@ -359,11 +347,7 @@
   (symbol (lib_id "Sensor_Temperature:DS18B20") (at 57.15 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa32d748-5377-4c97-945a-067a93a7b6a3)
-<<<<<<< HEAD
     (property "Reference" "U2" (id 0) (at 50.8 50.7999 0)
-=======
-    (property "Reference" "U?" (id 0) (at 50.8 50.7999 0)
->>>>>>> b6a60ca524a67fbbe29fe5a4fd584fb6a5097c1b
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "DS18B20" (id 1) (at 50.8 53.3399 0)
