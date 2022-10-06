@@ -1,4 +1,4 @@
 # proyectoEmbebidos
 
-#Hola, primer commit
+#Revisando Esquemáticos de los diferentes Sensores
 
