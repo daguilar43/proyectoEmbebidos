@@ -115,11 +115,11 @@
     (property "Sheet file" "bootloader.kicad_sch" (id 1) (at 163.83 86.9446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "TXD0" passive (at 163.83 78.74 180)
+    (pin "TXD0" bidirectional (at 163.83 78.74 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 07e54c9d-699a-4fe8-b810-a5cd7761aff8)
     )
-    (pin "RXD0" passive (at 163.83 81.28 180)
+    (pin "RXD0" bidirectional (at 163.83 81.28 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid b551ed24-e93c-4830-bead-be21cab0003a)
     )
@@ -180,6 +180,9 @@
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/033d851b-dd8e-4d1f-a4ac-f5a5c18e791f"
       (reference "#PWR0115") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/06bc27f0-8f67-4b42-a02d-402ce0b10715"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/1a0ea9e8-2171-41c9-be11-894122e30cbe"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -192,17 +195,20 @@
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/468c2d4c-26cb-4c5b-9d15-3e340b43e220"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/6ed08958-febf-40cd-b13e-7b76a14cdf5b"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/754ff81b-77e5-4b67-83fa-84517bf546a2"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/8e21bd33-9ddd-4dab-ba12-f74e7908b709/87803d0e-08cf-4ed7-98f1-f45b59255ebc"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
-    (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/aa6066d2-09de-4e1a-8588-4799a8766a9a"
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/91c331a8-f30d-4604-a3aa-c1e292ae95bf"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
-    (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/ae0fc72f-4f9f-45f4-a568-fb95e199f172"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/aa6066d2-09de-4e1a-8588-4799a8766a9a"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/b04ffc44-8fce-4a2a-8ec1-8e26701fc860"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
@@ -246,6 +252,12 @@
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/6e1e1888-48e1-4158-bfbf-b701ff197576"
       (reference "Cfeed2") (unit 1) (value "0.1uF/50(10%)") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/2d6eb9c3-c12a-4db4-b9f5-ec34a44d226a"
+      (reference "D?") (unit 1) (value "MBR1020VL") (footprint "Diode_SMD:D_SOD-123F")
+    )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/775bc2ee-a439-4a93-a5a2-0dcd9f65d5c6"
+      (reference "DJackPwr") (unit 1) (value "LESD5D5.0CT1G") (footprint "TVS_LESD5D5.0CT1G")
+    )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/e3814a41-99f9-434a-98ee-7bf303d19ca2"
       (reference "DUSBBAT") (unit 1) (value "BAT760-7") (footprint "SOD2513X120N")
     )
@@ -260,6 +272,9 @@
     )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/0fe52e10-c9c5-4854-8030-850ef3833919"
       (reference "J?") (unit 1) (value "USB_B_Micro") (footprint "")
+    )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/a21fd23b-10fd-4ea0-984d-cf4be95b7984"
+      (reference "J?") (unit 1) (value "Jack-DC") (footprint "")
     )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/27f6d6bc-db2e-4dcc-866c-e499eea67225"
       (reference "Q?") (unit 1) (value "SS8050-G") (footprint "TRANS_SS8050-G")
@@ -302,6 +317,9 @@
     )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/b0369b32-598b-4971-a990-7319b0edc70c"
       (reference "Rvbus2") (unit 1) (value "47.5K(5%)") (footprint "")
+    )
+    (path "/9a453819-a545-42f7-8ffc-01e63c178689/2af25db5-ea0f-4b1e-89f7-0f2918b5fa2b"
+      (reference "SW?") (unit 1) (value "SW_DP3T") (footprint "")
     )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/501ef5bb-8a5b-4bc2-8a13-cbd172362c89"
       (reference "SWBoot1") (unit 1) (value "SW_Push") (footprint "")
