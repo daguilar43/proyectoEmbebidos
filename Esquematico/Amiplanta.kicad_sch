@@ -213,9 +213,6 @@
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/7a1c9852-3124-4eba-aea4-5b9bd8d28dbb"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/7ceab1d3-cfd1-4b0e-a6f6-508f9560e599"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/8e21bd33-9ddd-4dab-ba12-f74e7908b709/87803d0e-08cf-4ed7-98f1-f45b59255ebc"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -315,6 +312,9 @@
     (path "/9a453819-a545-42f7-8ffc-01e63c178689/a21fd23b-10fd-4ea0-984d-cf4be95b7984"
       (reference "J?") (unit 1) (value "Jack-DC") (footprint "")
     )
+    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/920d4434-2157-4259-ae45-2e8c5ea75c6c"
+      (reference "LS?") (unit 1) (value "Speaker") (footprint "")
+    )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/27f6d6bc-db2e-4dcc-866c-e499eea67225"
       (reference "Q?") (unit 1) (value "SS8050-G") (footprint "TRANS_SS8050-G")
     )
@@ -322,13 +322,7 @@
       (reference "Q?") (unit 1) (value "SS8050-G") (footprint "TRANS_SS8050-G")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/10b0fca3-8cf4-4475-88fa-1d494761ed52"
-      (reference "R1") (unit 1) (value "R") (footprint "")
-    )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/28acb18c-afa0-45b9-9e55-cb71ce12f65d"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/ecbf8723-f26d-47ca-a9bb-e061f54abde4"
-      (reference "R?") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "4,7k") (footprint "")
     )
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/bd14b65c-997b-41da-bf84-2d98b196f72f"
       (reference "RDTR") (unit 1) (value "10K(5%)") (footprint "")
@@ -388,7 +382,7 @@
       (reference "U?") (unit 1) (value "SR501") (footprint "")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/5efa8551-c371-41d5-8c9a-839b2bc39e12"
-      (reference "U?") (unit 1) (value "SEN0193") (footprint "")
+      (reference "U?") (unit 1) (value "SEN0193") (footprint "Connector_JST:JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/cce50294-4af6-46aa-bf52-1166511ef3b8"
       (reference "U?") (unit 1) (value "APSD-9960-Ar") (footprint "")
