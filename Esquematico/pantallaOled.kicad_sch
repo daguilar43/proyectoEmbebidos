@@ -224,7 +224,7 @@
     (uuid e47284f7-90b7-4661-a5d8-4f12b1a5faed)
     (property "Reference" "Brd1" (id 0) (at 143.51 81.28 90))
     (property "Value" "SSD1306" (id 1) (at 143.51 83.82 90))
-    (property "Footprint" "Audio_Module:Reverb_BTDR-1H" (id 2) (at 149.86 92.71 0)
+    (property "Footprint" "SSD1306:128x64OLED" (id 2) (at 149.86 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf" (id 3) (at 149.86 92.71 0)
