@@ -423,7 +423,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Amiplanta_v4.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "amiplanta.dsn",
       "step": "",
       "vrml": ""
     },
