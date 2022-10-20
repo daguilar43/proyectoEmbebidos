@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "BAT760-7-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/Componentes/BAT760-7-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "BAT760-7")(type "KiCad")(uri "${KIPRJMOD}/Componentes/BAT760-7")(options "")(descr ""))
+  (lib (name "LESD5D5")(type "KiCad")(uri "${KIPRJMOD}/Componentes/LESD5D5.0CT1G")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/Componentes/KiCad-SSD1306-128x64-master/library/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/Componentes/SS8050-G")(options "")(descr ""))
+)
