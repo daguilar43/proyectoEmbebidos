@@ -337,11 +337,11 @@
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/88d91ab1-907b-4bb9-af10-a9355efac0d0"
       (reference "#PWR0112") (unit 1) (value "GNDREF") (footprint "")
     )
-    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/83cca67b-cd5f-4833-8490-5174534c6b7f"
+    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/93e1e45d-c182-42e1-8022-112acae5c19c"
       (reference "#PWR0113") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/a92517ce-6a3f-49d6-a6d4-16a74f3631a4"
-      (reference "#PWR0114") (unit 1) (value "GNDREF") (footprint "")
+    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/2250eddd-1355-400d-bf5e-bbdc820edf29"
+      (reference "#PWR0114") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/033d851b-dd8e-4d1f-a4ac-f5a5c18e791f"
       (reference "#PWR0115") (unit 1) (value "GNDREF") (footprint "")
@@ -378,9 +378,6 @@
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/27011293-9ab6-4f0c-b653-bbd22f9739dd"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/9f3efa6e-5fe3-4aa1-a02b-cbefc58d4a98"
-      (reference "#PWR0128") (unit 1) (value "GND") (footprint "")
     )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/1a0ea9e8-2171-41c9-be11-894122e30cbe"
       (reference "#PWR0129") (unit 1) (value "GNDREF") (footprint "")
@@ -445,9 +442,6 @@
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/a97102c6-c5ba-46e8-bccd-219eadb10f2a"
       (reference "Cboot1") (unit 1) (value "0.1uF/50V(10%)(NC)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/cc775873-d435-4201-b37a-ca0d47b1e722"
-      (reference "Cen1") (unit 1) (value "0.1uF/50(10%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/50a72f42-4510-4c11-9c2f-63b086c35b1b"
       (reference "Cen2") (unit 1) (value "0.1uF/50V(10%)(NC)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -481,20 +475,20 @@
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/0fe52e10-c9c5-4854-8030-850ef3833919"
       (reference "J2") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521")
     )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/554d1053-a356-4ba7-87fe-d0e7e14948dd"
-      (reference "Jamp1") (unit 1) (value "Conn_01x02_Female") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+    (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/4e4aa1cf-9bd2-4458-a8ce-8ab9b3feabd1"
+      (reference "J3") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/eba6c7c9-2b53-47aa-ba6a-1a4a78635526"
       (reference "Jhum1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_Molex:Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/684746c4-1887-4b1d-9bbf-734e8ddab14d"
-      (reference "Jluc1") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
+      (reference "Jluc1") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_Molex:Molex_KK-396_A-41791-0006_1x06_P3.96mm_Vertical")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/f6f4f47b-ea21-4028-bbfd-4fe525c5bcbd"
       (reference "Jmov1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_Molex:Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical")
     )
     (path "/8e21bd33-9ddd-4dab-ba12-f74e7908b709/467fb15b-9762-43bf-afd8-76c6f7a455f2"
-      (reference "Joled1") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical")
+      (reference "Joled1") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_Molex:Molex_KK-396_5273-04A_1x04_P3.96mm_Vertical")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/47c0dcbc-5dfb-4e36-9786-2033e6fc46ee"
       (reference "Jtem1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_Molex:Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical")
@@ -526,14 +520,11 @@
     (path "/f208f94e-d25e-4624-bb7e-be2762749fd2/06d46c22-5f8a-4a0d-aa63-44ac9bbfcd22"
       (reference "Ractbl1") (unit 1) (value "10k(5%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/64ad069a-fbfd-48dc-99a9-034c0bd02aeb"
+    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/91cc120b-c0da-41a0-8495-9ae80174d734"
+      (reference "Rboot1") (unit 1) (value "10K(5%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/40262422-baa8-4e51-b144-41c552b8108f"
       (reference "Ren1") (unit 1) (value "10K(5%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/2a01c71c-c8e1-4284-9d4b-4112acbbbbe2"
-      (reference "Rmov1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/6c677576-69fa-4d9a-95c3-48d5b623f22c"
-      (reference "Rmov2") (unit 1) (value "3.3k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9a453819-a545-42f7-8ffc-01e63c178689/548e7926-6c74-48fe-9059-39ef53409d0a"
       (reference "Rpw1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -557,7 +548,7 @@
       (reference "SWin1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/0da94084-eb5a-479a-93a9-88e81d2f7cc7"
-      (reference "U2") (unit 1) (value "MAX98357AETE+") (footprint "open-automation:MAX98357A")
+      (reference "U2") (unit 1) (value "MAX98357AETE+") (footprint "MAX9835_Editado:MAX98357A_ModuloEditado")
     )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/d4e5fbf4-4052-4756-a1fb-1e159dad7de4"
       (reference "U3") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")

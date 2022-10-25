@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.54,
+          "height": 3.81,
+          "width": 3.81
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -361,7 +361,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.4,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -376,10 +376,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "dato",
-        "nets": [
-          "/ESP32/SCL",
-          "/ESP32/SDA"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
@@ -398,18 +395,18 @@
         "microvia_drill": 0.1,
         "name": "power",
         "nets": [
+          "+3.3V",
+          "+3V3",
           "+5V",
           "+5V_Jack",
-          "/Sensores/Amp+",
-          "/Sensores/Amp-",
           "GND",
           "GNDREF"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.8,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 1.0,
+        "via_diameter": 1.1,
+        "via_drill": 0.5,
         "wire_width": 6.0
       }
     ],

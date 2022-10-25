@@ -250,7 +250,7 @@
     (uuid 467fb15b-9762-43bf-afd8-76c6f7a455f2)
     (property "Reference" "Joled1" (id 0) (at 146.685 83.82 0))
     (property "Value" "Conn_01x04_Female" (id 1) (at 146.685 86.36 0))
-    (property "Footprint" "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical" (id 2) (at 146.05 91.44 0)
+    (property "Footprint" "Connector_Molex:Molex_KK-396_5273-04A_1x04_P3.96mm_Vertical" (id 2) (at 146.05 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 146.05 91.44 0)
