@@ -6,4 +6,8 @@
   (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/Componentes/SS8050-G")(options "")(descr ""))
   (lib (name "MAX9835_Editado")(type "KiCad")(uri "/proyectoEmbebidos/proyectoEmbebidos/MAX9835_Editado.pretty")(options "")(descr ""))
   (lib (name "MAX9835_EditadoLib")(type "KiCad")(uri "/home/oem/Documentos/Embebidos/proyectoEmbebidos/MAX9835_Editado.pretty/MAX9835_EditadoLib.pretty")(options "")(descr ""))
+  (lib (name "HC-SR501-master")(type "KiCad")(uri "${KIPRJMOD}/Componentes/HC-SR501/HC-SR501-master")(options "")(descr ""))
+  (lib (name "APDS-9960")(type "KiCad")(uri "${KIPRJMOD}/Componentes/APDS-9960")(options "")(descr ""))
+  (lib (name "MAX98357AETE_")(type "KiCad")(uri "${KIPRJMOD}/Componentes/MAX98357AETE_")(options "")(descr ""))
+  (lib (name "AmplantaLogo")(type "KiCad")(uri "${KIPRJMOD}/AmplantaLogo.pretty")(options "")(descr ""))
 )
