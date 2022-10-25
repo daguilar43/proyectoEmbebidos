@@ -548,7 +548,7 @@
       (reference "SWin1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm")
     )
     (path "/da35fd3b-3e73-4d65-b0aa-d2ea7166f2ab/0da94084-eb5a-479a-93a9-88e81d2f7cc7"
-      (reference "U2") (unit 1) (value "MAX98357AETE+") (footprint "MAX9835_Editado:MAX98357A_ModuloEditado")
+      (reference "U2") (unit 1) (value "MAX98357AETE+") (footprint "MAX9835_EditadoLib:MAX98357A_ModuloEditado")
     )
     (path "/e140a476-2c20-4832-a6c9-c446e5aea50a/d4e5fbf4-4052-4756-a1fb-1e159dad7de4"
       (reference "U3") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")

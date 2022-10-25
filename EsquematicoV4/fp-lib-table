@@ -5,4 +5,5 @@
   (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/Componentes/KiCad-SSD1306-128x64-master/library/SSD1306.pretty")(options "")(descr ""))
   (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/Componentes/SS8050-G")(options "")(descr ""))
   (lib (name "MAX9835_Editado")(type "KiCad")(uri "/proyectoEmbebidos/proyectoEmbebidos/MAX9835_Editado.pretty")(options "")(descr ""))
+  (lib (name "MAX9835_EditadoLib")(type "KiCad")(uri "/home/oem/Documentos/Embebidos/proyectoEmbebidos/MAX9835_Editado.pretty/MAX9835_EditadoLib.pretty")(options "")(descr ""))
 )

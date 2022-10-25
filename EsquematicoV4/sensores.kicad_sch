@@ -953,7 +953,7 @@
     (uuid 0da94084-eb5a-479a-93a9-88e81d2f7cc7)
     (property "Reference" "U2" (id 0) (at 99.06 40.64 0))
     (property "Value" "MAX98357AETE+" (id 1) (at 99.06 43.18 0))
-    (property "Footprint" "MAX9835_Editado:MAX98357A_ModuloEditado" (id 2) (at 99.06 58.42 0)
+    (property "Footprint" "MAX9835_EditadoLib:MAX98357A_ModuloEditado" (id 2) (at 99.06 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf" (id 3) (at 99.06 58.42 0)
