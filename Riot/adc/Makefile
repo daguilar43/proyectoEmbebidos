@@ -17,8 +17,10 @@ QUIET ?= 1
 
 # Use a peripheral timer for the delay, if available
 # FEATURES_OPTIONAL += periph_timer
-
-# USEMODULE += gpio 
+#USEMODULE += gpio 
+USEMODULE += periph_i2c
+USEPKG += u8g2
+#FEATURES_REQUIRED+=periph_i2c
 
 SERIALMONITOR?=picocom
 SERIALMONITOR_GUI ?=gtkterm

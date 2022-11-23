@@ -14,7 +14,7 @@ Acivar variables de entorno:
 Construir, flashear y monitorear:
 
 ```bash
-make b f t
+    make b f t
 ```
 Revisión de la documentación para modificaciones
 ================================================
