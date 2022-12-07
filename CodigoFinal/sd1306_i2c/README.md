@@ -1,3 +1,27 @@
+#Código main.c
+
+Este código utiliza las funciones de lectura y escritura definidas en los archivos de periféricos.
+Además, se basa en el código ejemplo U8g2 para escribir y mostrar gráficos en una oled 128x64px.
+
+Primero se realizar la inicialización de cada uno de los sensores. Posteriormente se realiza la inicialización de la pantalla.
+
+Finalmente, se calculan las emociones a partir de medidas en cada uno de los sensores y se imprime en pantalla la emoción calculada.
+
+Se cuenta con 5 emociones:
+
+  *Feliz (todos los sensores en los rangos establecidos
+  *Ahogado (demasiada humedad)
+  *Sediento (humedad demasiado baja)
+  *Oscuridad (baja luminosidad)
+  *Frio (Temperatura baja)
+  *Calor (Temperatura alta)
+
+
+
+
+
+
+
 # U8g2 Package Test
 
 ## About
