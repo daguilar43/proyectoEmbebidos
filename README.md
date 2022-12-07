@@ -7,6 +7,9 @@ Dentro de estas carpetas pueden encontrarse:
 *Proyecto en Kicad con el esquemático del dispositivo, huellas de los los diferentes componentes y layout de la PCB que fue enviada a producción con sus 
 respectivas reglas de diseño + Logo del proyecto en la máscara de la PCB.
 
+*Huellas realizadas manualmente de alunos componentes (utilizados para el diseño de la PCB).
+
 
 *Código final desarrollado con ayuda de RIOT OS y el sdk para la Esp32-Wroom32, placa que fue utilizada para el montaje del proyecto.
-*
+
+*Modelo 3D utilizado para la matera.
