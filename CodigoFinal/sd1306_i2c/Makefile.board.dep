@@ -1,0 +1,3 @@
+FEATURES_REQUIRED = periph_adc
+USEMODULE += ztimer
+USEMODULE += ztimer_msec
